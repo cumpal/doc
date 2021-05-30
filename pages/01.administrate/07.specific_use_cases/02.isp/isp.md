@@ -48,6 +48,22 @@ A "no" may cause problems for using your server or may require you to make addit
 | Telus | Multiple | - | No. Extra charge | - | - | No. Extra charge |
 | TekSavvy | Multiple | - | Yes | No | - | No. Extra charge |
 
+### Finland
+
+
+
+| Service provider | Box (modem/router) | uPnP available | Port 25 openable | [Hairpinning](http://en.wikipedia.org/wiki/Hairpinning) | Customizable reverse DNS | Fix IP |
+
+| --- | --- | --- | --- | --- | --- | --- |
+
+| Elisa | Multiple | Yes | No. Business only. | Yes | No. Business only. | No. Business only. |
+| DNA | Multiple | Yes | No. Business only. | Yes | No. Business only. | No. Business only. |
+| Telia | Multiple | Yes | No. Business only. | Yes | No. Business only. | No. Business only. |
+
+
+
+
+
 ### Sweden
 
 | Service provider | Box (modem/router) | uPnP available | Port 25 openable | [Hairpinning](http://en.wikipedia.org/wiki/Hairpinning) | Customizable reverse DNS | Fix IP |
